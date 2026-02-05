@@ -33,9 +33,6 @@ I have a **love** for recording special moments in life, big or small. During th
 
 ## Optional: Add more about yourself
 
-Feel free to add any of these using what you learned in `learn-markdown.md`:
-
-
 | Favorite Thing         | Why I like it                                       |
 | ---------------------- | --------------------------------------------------- |
 | Physical Activity      | Good to get your body moving                        |
