@@ -1,49 +1,33 @@
 # About me
 
-<!--
-INSTRUCTIONS: Complete each section below using Markdown formatting.
-Ask Copilot for help if you're unsure how to format something!
-Delete these instruction comments when you're done.
--->
-
 ## My name
 
-<!-- Replace this line with your name. Try making it bold! -->
+**Ivana San Pedro**
 
 ## What I'm studying
 
-<!-- What is your major or area of study? -->
+I am majoring in Computer Science.
 
 ## Why I'm taking this course
 
-<!-- Write a sentence or two about why you enrolled in this course. -->
+I am required to take this course before I graduate. However, I am interested in learning about JavaScript. 
 
 ## My programming experience
 
-<!--
-Describe your previous programming experience using a list.
-If you have none, that's okay! You can write "No previous experience"
-or list other technical skills you have.
+- Built a website once in _Professor Caruso's_ course, but I ~~struggled~~ had difficulty adjusting the size of images according to the screen size
+- Programmed simple user input games in NetBeans
+- Programmed in Java and Python
 
-Example format:
-- Skill or experience 1
-- Skill or experience 2
--->
 
 ## A fun fact about me
 
-<!-- Share something interesting about yourself! -->
+I have a **love** for recording special moments in life, big or small. During the pandemic, I started taking pictures on film. Since then, I take my film camera everywhere I go. I make sure to get physical copies of the images when they get developed, so I can put them in a photo album. Growing up, I enjoyed flipping through family photo albums. I aspire to have a *large collection* of albums when I am in my sixties, so I can show my kids a sneak peek into my youth. 
 
 ## My goals for this semester
 
-<!--
-What do you hope to learn or accomplish?
-Try using a numbered list for your goals:
-
-1. First goal
-2. Second goal
-3. Third goal
--->
+1. Get comfortable with GitHub
+2. Be **proud** of my programming
+3. Understand more about JavaScript 
 
 ---
 
@@ -51,7 +35,8 @@ Try using a numbered list for your goals:
 
 Feel free to add any of these using what you learned in `learn-markdown.md`:
 
-- A link to a website you enjoy
-- A favorite quote (use a blockquote!)
-- A table of your favorite things
-- An image (if you know one you'd like to include)
+
+| Favorite Thing         | Why I like it                                       |
+| ---------------------- | --------------------------------------------------- |
+| Physical Activity      | Good to get your body moving                        |
+| Music                  | What's not to enjoy about music                     |
