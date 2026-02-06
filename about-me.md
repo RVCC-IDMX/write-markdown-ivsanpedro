@@ -14,7 +14,7 @@ I am required to take this course before I graduate. However, I am interested in
 
 ## My programming experience
 
-- Built a website once in _Professor Caruso's_ course, but I ~~struggled~~ had difficulty adjusting the size of images according to the screen size
+- Built a website once in _Professor Caruso's_ course, but I ~~**struggled**~~ had difficulty adjusting the size of images according to the screen size
 - Programmed simple user input games in NetBeans
 - Programmed in Java and Python
 
@@ -32,6 +32,7 @@ I have a **love** for recording special moments in life, big or small. During th
 ---
 
 ## Optional: Add more about yourself
+[About Me Website](https://about-me-ivsanpedro.netlify.app)
 
 | Favorite Thing         | Why I like it                                       |
 | ---------------------- | --------------------------------------------------- |

@@ -1,0 +1,87 @@
+# AI collaboration summary
+
+**Student name:** Ivana San Pedro
+
+**Assignment:** Week 1 - Markdown fundamentals
+
+## Key interactions
+
+Review your SpecStory history (`.specstory/history/`) and document 3 meaningful interactions with Copilot.
+
+### Interaction 1: [Brief title, e.g., "Learning about headers"]
+
+**My prompt:**
+
+> What is the difference between an underscore and an asterisk when italicizing
+
+**What I learned:**
+
+In Markdown, an underscore and an asterisk render the same. Asterisks are more flexible for emphasis inside words. 
+
+**How I applied it:**
+
+I used both, asterisks and underscores, to see the visual difference. The words I italicized were not large, so I had no issues using both. 
+
+---
+
+### Interaction 2: [Brief title]
+
+**My prompt:**
+
+> Why does the text to display have to be in brackets when using a link in markdown
+
+**What I learned:**
+
+The square brackets are part of Markdown's syntax. It differentiates the label from the URL.
+
+**How I applied it:**
+
+I added a link to the website I made in a course taught by Professor Caruso. The site was perfect because it contained details about my life. 
+
+---
+
+### Interaction 3: [Brief title]
+
+**My prompt:**
+
+> What are the rules to using strikethrough
+
+**What I learned:**
+
+It is possible to apply a strikethrough to a word while also making it bold by adding asterisks on each side of the word. An example: ~~**word**~~
+
+**How I applied it:**
+
+I made a word bold and have a strikethrough. 
+
+---
+
+## Reflection
+
+### Most helpful AI interaction
+
+I thought the conversation about the difference between an underscore and an asterisk when italicizing helped me the most. If I hadn't asked Copilot, there's a possibility I could have run into an issue using underscored to italicize a large phrase when I could be using asterisks.
+
+### Least helpful AI interaction
+
+No, I did not have any interactions that I found to be less useful. Luckily, my questions were successfully answered by Copilot. 
+
+### What Markdown concepts did you learn?
+
+Both underscores and asterisks make italics in Markdown; however, asterisks are more flexible for emphasis inside words. When referencing a link, the link label goes between square brackets and the URl itself is enclosed in parentheses. The square brackets clearly differentiate the label from the link. In addition, it is possible to bold a word while also adding a strikethrough. 
+
+### Copilot as a learning tool
+
+I think Copilot is a great learning tool. It provided examples and explained the reasoning behind Markdown syntax to better my understanding of how it works. 
+
+### Context awareness (optional)
+
+I noticed that the responses were simple, they didn't contain complex concepts that might have made it difficult to understand what it was explaining. Knowing that the file changed its way of responding, made me change my perspective on AI. I first thought of it like the pandora box, that it had solutions to everything. Now, I see it as a tool that I can use to improve my comprehension on concepts I am unfamiliar with. 
+
+---
+
+## Optional
+
+**Approximate time spent working with AI:** [e.g., 30 minutes, 1 hour]
+
+**Number of conversations in SpecStory history:** [Count the exchanges in your history folder]
